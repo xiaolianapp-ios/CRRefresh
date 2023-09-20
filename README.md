@@ -53,7 +53,7 @@ pod install
 [Carthage](https://github.com/Carthage/Carthage) is a decentralized dependency manager that builds your dependencies and provides you with binary frameworks. To integrate `CRRefresh` into your Xcode project using Carthage, specify it in your `Cartfile`:
 
 ```
-github "CRAnimation/CRRefresh"
+github "xiaolianapp-ios/CRRefresh"
 ```
 
 Run `carthage update` to build the framework and drag the built `CRRefresh.framework` (in Carthage/Build/iOS folder) into your Xcode project (Linked Frameworks and Libraries in `Targets`).
