@@ -10,6 +10,9 @@
 
 [中文介绍](README_CN.md) / [博客介绍](http://blog.csdn.net/wang631106979/article/details/62888435)
 
+## Info
+Forked from: “CRAnimation/CRRefresh”
+
 ## Screenshots
 
 | ![](CRRefresh1.gif) |  ![](CRRefresh2.gif)   | ![](CRRefresh3.gif) |
@@ -21,9 +24,9 @@
 ## Requirements
 
 - Xcode 8 or later
-- iOS 8.0 or later
+- iOS 12.0 or later
 - ARC
-- Swift 3.0 or later
+- Swift 5.0 or later
 
 ## Features
 
